@@ -1,0 +1,6 @@
+[submodule "planner"]
+	path = planner
+	url = git@github.com:helloitsjoe/planner.git
+[submodule "spyfreaks"]
+	path = spyfreaks
+	url = git@github.com:helloitsjoe/spyfreaks.git
